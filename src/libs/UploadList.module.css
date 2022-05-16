@@ -1,0 +1,16 @@
+.root {
+  max-width: 800px;
+}
+
+.thumbList {
+  display: flex;
+}
+.thumb {
+  border: 1px solid #000;
+}
+
+.thumb img {
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
+}
